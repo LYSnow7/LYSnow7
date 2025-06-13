@@ -1,5 +1,5 @@
 ## Hi there 👋
-[雪的A学习日记](https://770825.xyz/))
+雪的A学习日记(https://770825.xyz/))
 
 <!--
 **LYSnow7/LYSnow7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
